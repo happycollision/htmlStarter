@@ -1,0 +1,14 @@
+{
+  "name": "htmlStarter",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node npm-scripts/dev-server.js"
+  },
+  "author": "Don Denton",
+  "devDependencies": {
+    "browser-sync": "^2.18.13"
+  }
+}
